@@ -1,0 +1,52 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 80
+map_Kd textures\weapons\2handrifle\microfusioncell01.dds
+map_Kn textures\weapons\2handrifle\microfusioncell01_n.dds
+
+newmtl Material.0000c3
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 20
+map_Kd textures\weapons\2handhandle\PlasmaCaster.dds
+map_Kn textures\weapons\2handhandle\PlasmaCaster_N.dds
+
+newmtl Material.000172
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 150
+map_Kd textures\weapons\2handhandle\PlasmaCaster.dds
+map_Kn textures\weapons\2handhandle\PlasmaCaster_N.dds
+
+newmtl Material.0003fa
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 20
+map_Kd textures\weapons\2handhandle\PlasmaCaster.dds
+map_Kn textures\weapons\2handhandle\PlasmaCaster_N.dds
+
+newmtl Material.001d25
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 20
+map_Kd textures\weapons\2handhandle\PlasmaCaster.dds
+map_Kn textures\weapons\2handhandle\PlasmaCaster_N.dds
+
+newmtl Material.001e8d
+Ka 1 1 1
+Kd 1 1 1
+Ks 0.682353 0.729412 0.796078
+d 1
+Ns 1
