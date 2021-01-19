@@ -1,0 +1,9 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd D:/Games/NV/meshes/armor/legion/aaaa/textures\armor\legion\legionACC.dds
+map_Kn D:/Games/NV/meshes/armor/legion/aaaa/textures\armor\legion\legionACC_n.dds
