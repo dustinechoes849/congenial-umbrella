@@ -1,0 +1,45 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\weapons\1handpistol\SmallEnergyCell.dds
+map_Kn textures\weapons\1handpistol\smallenergycell_n.dds
+
+newmtl Material.000152
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 0.75
+Ns 80
+map_Kd textures\weapons\1handpistol\Pulsegun.dds
+map_Kn textures\weapons\1handpistol\Pulsegun_n.dds
+
+newmtl Material.00021e
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 80
+map_Kd textures\weapons\1handpistol\Pulsegun.dds
+map_Kn textures\weapons\1handpistol\Pulsegun_n.dds
+
+newmtl Material.000c47
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 15
+map_Kd textures\weapons\1handpistol\Pulsegun.dds
+map_Kn textures\weapons\1handpistol\Pulsegun_n.dds
+
+newmtl Material.000d73
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 15
+map_Kd textures\weapons\1handpistol\Pulsegun.dds
+map_Kn textures\weapons\1handpistol\Pulsegun_n.dds
