@@ -1,7 +1,7 @@
 # Blender MTL File: 'None'
 # Material Count: 1
 
-newmtl Material.005
+newmtl Material.006
 Ns 10.000002
 Ka 1.000000 1.000000 1.000000
 Kd 1.000000 1.000000 1.000000
@@ -10,4 +10,4 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
 illum 1
-map_Kd textures\\armor\\legion\\legionBase.dds
+map_Kd D:\\Games\\NV\\meshes\\armor\\legion\\aaaa\\textures\\armor\\legion\\legionACC.dds
