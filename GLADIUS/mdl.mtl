@@ -1,0 +1,9 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 10
+map_Kd textures\weapons\1handmelee\machetegladius_D.dds
+map_Kn textures\weapons\1handmelee\machetegladius_N.dds
