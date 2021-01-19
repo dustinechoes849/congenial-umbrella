@@ -1,0 +1,99 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\weapons\2handlauncher\MissileLauncher.dds
+map_Kn textures\weapons\2handlauncher\MissileLauncher_n.dds
+
+newmtl Material.000004
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\weapons\2handlauncher\MissileLauncher.dds
+map_Kn textures\weapons\2handlauncher\MissileLauncher_n.dds
+
+newmtl Material.000007
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\weapons\2handlauncher\MissileLauncher.dds
+map_Kn textures\weapons\2handlauncher\MissileLauncher_n.dds
+
+newmtl Material.00000a
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 60
+map_Kd textures\weapons\2handlauncher\MissileLauncher2.dds
+map_Kn textures\weapons\2handlauncher\MissileLauncher2_n.dds
+
+newmtl Material.000062
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\weapons\2handlauncher\MissileLauncher.dds
+map_Kn textures\weapons\2handlauncher\MissileLauncher_n.dds
+
+newmtl Material.0000f3
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 60
+map_Kd textures\weapons\2handlauncher\MissileLauncher2.dds
+map_Kn textures\weapons\2handlauncher\MissileLauncher2_n.dds
+
+newmtl Material.0003f3
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 60
+map_Kd textures\weapons\2handlauncher\MissileLauncher2.dds
+map_Kn textures\weapons\2handlauncher\MissileLauncher2_n.dds
+
+newmtl Material.000417
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 60
+map_Kd textures\weapons\2handlauncher\MissileLauncher2.dds
+map_Kn textures\weapons\2handlauncher\MissileLauncher2_n.dds
+
+newmtl Material.000553
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\weapons\2handlauncher\MissileLauncher.dds
+map_Kn textures\weapons\2handlauncher\MissileLauncher_n.dds
+
+newmtl Material.00070f
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 60
+map_Kd textures\weapons\2handlauncher\MissileLauncher2.dds
+map_Kn textures\weapons\2handlauncher\MissileLauncher2_n.dds
+
+newmtl Material.00115d
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\weapons\2handlauncher\MissileLauncher.dds
+map_Kn textures\weapons\2handlauncher\MissileLauncher_n.dds
